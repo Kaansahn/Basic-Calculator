@@ -1,0 +1,32 @@
+.resultField{
+	-fx-background-color : black;
+	-fx-font-size : 35px;
+	-fx-text-fill : white;
+	-fx-font-weight : bold;
+}
+.numberButtons{
+	-fx-background-color :  #505050; 
+	-fx-text-fill : white;
+}
+.buttons{
+	-fx-font-weight : bold;
+	-fx-font-size : 20 px;
+	-fx-pref-width : 100px;
+	-fx-pref-height : 100px;
+	-fx-background-radius : 50px;
+}
+.buttons:hover{
+	-fx-opacity: 0.8;
+}
+.operatorButtons{
+	-fx-background-color : #FF9500;
+}
+.otherButtons{
+	-fx-background-color : #D4D4D2;
+}
+.zeroButton{
+	-fx-pref-width : 200px;
+}
+.pane{
+	-fx-background-color : black;
+}
